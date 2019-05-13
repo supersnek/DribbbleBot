@@ -1,0 +1,11 @@
+*.jar
+out
+build
+.gradle
+.idea
+*.txt
+gradle.properties
+
+src/main/kotlin/Key.kt
+
+
